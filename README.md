@@ -1,4 +1,4 @@
-# PMS MERN app
+# PropertyMarketPlace app
 
 This is a Property Management System app made by Israel, Mekdelawit, Tsegaye and Yonatan
 
