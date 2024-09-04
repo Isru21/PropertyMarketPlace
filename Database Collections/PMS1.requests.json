@@ -1,0 +1,537 @@
+[{
+  "_id": {
+    "$oid": "65659bf1c80c039bf1e2a851"
+  },
+  "realestate_name": "Sorry, This Apartment has been removed",
+  "client_name": "hidden",
+  "realestate_id": "6558d57345c10b951791d649",
+  "apartment_id": "65658bc302885090509b422a",
+  "client_id": "6558a62055b9496feeb97690",
+  "message": "Well okay",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-11-28T07:51:13.173Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T12:21:19.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656724c169c133660a335815"
+  },
+  "realestate_name": "Sorry, This Apartment has been removed",
+  "client_name": "hidden",
+  "realestate_id": "6558d57345c10b951791d649",
+  "apartment_id": "6567239e69c133660a335806",
+  "client_id": "6558a62055b9496feeb97690",
+  "message": "I like it a lot",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-11-29T11:47:13.718Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T12:21:19.048Z"
+  },
+  "__v": 0,
+  "reply_message": "Then its done!"
+},
+{
+  "_id": {
+    "$oid": "65686617cc10c508125d8a39"
+  },
+  "realestate_id": {
+    "$oid": "65673a6853941888062ff4c1"
+  },
+  "apartment_id": {
+    "$oid": "656861e63063fb72a8b8540c"
+  },
+  "client_id": {
+    "$oid": "6558a62055b9496feeb97690"
+  },
+  "message": "Well okay",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2023-11-30T10:38:15.644Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T11:46:55.315Z"
+  },
+  "__v": 0,
+  "reply_message": "Then its done!"
+},
+{
+  "_id": {
+    "$oid": "6569c99c9c28752ae366c55f"
+  },
+  "realestate_id": {
+    "$oid": "655e0c518f47461621f2ae06"
+  },
+  "apartment_id": {
+    "$oid": "656989c19c28752ae366c2c5"
+  },
+  "client_id": {
+    "$oid": "6558a62055b9496feeb97690"
+  },
+  "message": "price too high",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-12-01T11:55:08.755Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T07:19:42.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6569cfa5fb660cee4835c7bd"
+  },
+  "realestate_id": {
+    "$oid": "655e0c518f47461621f2ae06"
+  },
+  "apartment_id": {
+    "$oid": "656989c19c28752ae366c2c5"
+  },
+  "client_id": {
+    "$oid": "65672fed53941888062ff4a6"
+  },
+  "message": "kfehyfsy",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-12-01T12:20:53.152Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T12:20:53.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6569d0d6fb660cee4835c7e4"
+  },
+  "realestate_id": {
+    "$oid": "65673a6853941888062ff4c1"
+  },
+  "apartment_id": {
+    "$oid": "656861e63063fb72a8b8540c"
+  },
+  "client_id": {
+    "$oid": "65672fed53941888062ff4a6"
+  },
+  "message": "jhtdjytd",
+  "status": "rejected",
+  "createdAt": {
+    "$date": "2023-12-01T12:25:58.440Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T08:02:52.611Z"
+  },
+  "__v": 0,
+  "reply_message": "Not acceptable offer"
+},
+{
+  "_id": {
+    "$oid": "6569d3c5fb660cee4835c857"
+  },
+  "realestate_id": {
+    "$oid": "655e0c518f47461621f2ae06"
+  },
+  "apartment_id": {
+    "$oid": "656989c19c28752ae366c2c5"
+  },
+  "client_id": {
+    "$oid": "655e04e28f47461621f2ade7"
+  },
+  "message": "jfdjdjtd",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-12-01T12:38:29.708Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T12:38:29.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657809b9d17296f63ac54cdb"
+  },
+  "realestate_id": {
+    "$oid": "655e0c518f47461621f2ae06"
+  },
+  "apartment_id": {
+    "$oid": "655f106861b120deded701b6"
+  },
+  "client_id": {
+    "$oid": "6558a62055b9496feeb97690"
+  },
+  "message": "okay!",
+  "status": "rejected",
+  "createdAt": {
+    "$date": "2023-12-12T07:20:25.693Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T07:23:54.462Z"
+  },
+  "__v": 0,
+  "reply_message": "Sold"
+},
+{
+  "_id": {
+    "$oid": "6582aad7755218cccda4ff87"
+  },
+  "realestate_id": {
+    "$oid": "656429fe078f1be5e8d803a1"
+  },
+  "apartment_id": {
+    "$oid": "6582a1d5755218cccda4ff1c"
+  },
+  "client_id": {
+    "$oid": "655f15616462090b2b5d2876"
+  },
+  "message": "damn",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-12-20T08:50:31.268Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T10:54:48.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6593e1a5fec9855be6d974d4"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "658c5e188ebdda6249af6cf2"
+  },
+  "client_id": {
+    "$oid": "655f15616462090b2b5d2876"
+  },
+  "message": "am intersted",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2024-01-02T10:12:53.253Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T10:14:56.124Z"
+  },
+  "__v": 0,
+  "reply_message": "ok w accept"
+},
+{
+  "_id": {
+    "$oid": "65a62546ad4f5bcf96ecb78a"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "65980262f6289a0bbc02fd49"
+  },
+  "client_id": {
+    "$oid": "655f15616462090b2b5d2876"
+  },
+  "message": "asadaad  dawda ad ad ",
+  "status": "rejected",
+  "createdAt": {
+    "$date": "2024-01-16T06:42:14.502Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T07:47:05.079Z"
+  },
+  "__v": 0,
+  "reply_message": "your application is invalid\n"
+},
+{
+  "_id": {
+    "$oid": "65a62cd264e63c84f8aa3a8e"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "659bb2245b5c32561e6ef414"
+  },
+  "client_id": {
+    "$oid": "655f15616462090b2b5d2876"
+  },
+  "message": "i want it now isru approved",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2024-01-16T07:14:26.163Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T07:37:39.859Z"
+  },
+  "__v": 0,
+  "reply_message": "ok isru we will see to it that you get a an aspartame in our complex"
+},
+{
+  "_id": {
+    "$oid": "65a62e45bdbebc98b6b71c1a"
+  },
+  "realestate_id": {
+    "$oid": "65673a6853941888062ff4c1"
+  },
+  "apartment_id": {
+    "$oid": "65685d7817ec1f2a66534033"
+  },
+  "client_id": {
+    "$oid": "655f15616462090b2b5d2876"
+  },
+  "message": "aaaaaaaaaaaaaaaaaaaaaaa",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-01-16T07:20:37.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T07:20:37.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6619cdc1c34cee54f207f"
+  },
+  "realestate_id": {
+    "$oid": "656429fe078f1be5e8d803a1"
+  },
+  "apartment_id": {
+    "$oid": "6582a1d5755218cccda4ff1c"
+  },
+  "client_id": {
+    "$oid": "65a637eb6901bb1b8bb9c9af"
+  },
+  "message": "this appartama looks very interesting",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2024-01-16T10:59:40.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-23T12:07:22.283Z"
+  },
+  "__v": 0,
+  "reply_message": "fuckin bozo\n"
+},
+{
+  "_id": {
+    "$oid": "65a66351dc1c34cee54f2089"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "65980262f6289a0bbc02fd49"
+  },
+  "client_id": {
+    "$oid": "65a637eb6901bb1b8bb9c9af"
+  },
+  "message": "this one is semming very nice please comback to me ",
+  "status": "rejected",
+  "createdAt": {
+    "$date": "2024-01-16T11:06:57.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T08:42:21.653Z"
+  },
+  "__v": 0,
+  "reply_message": "not interesrted"
+},
+{
+  "_id": {
+    "$oid": "65a8eb25ea7e0272313c0a23"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "65980262f6289a0bbc02fd49"
+  },
+  "client_id": {
+    "$oid": "655f15616462090b2b5d2876"
+  },
+  "message": "asdadasdadsdad",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2024-01-18T09:11:01.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T09:31:44.431Z"
+  },
+  "__v": 0,
+  "reply_message": "very good"
+},
+{
+  "_id": {
+    "$oid": "65a8eb35ea7e0272313c0a2c"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "659bb2355b5c32561e6ef418"
+  },
+  "client_id": {
+    "$oid": "655f15616462090b2b5d2876"
+  },
+  "message": "adasdadadsa",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2024-01-18T09:11:17.551Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T09:31:51.807Z"
+  },
+  "__v": 0,
+  "reply_message": "yep"
+},
+{
+  "_id": {
+    "$oid": "65afef43336605d05e73a0ec"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "659bb2355b5c32561e6ef418"
+  },
+  "client_id": {
+    "$oid": "65a637eb6901bb1b8bb9c9af"
+  },
+  "message": "a very nice appartment that i would love to buy drom you lot, test me back i will be awaitng for your responce",
+  "status": "rejected",
+  "createdAt": {
+    "$date": "2024-01-23T16:54:27.755Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T08:10:07.869Z"
+  },
+  "__v": 0,
+  "reply_message": "gematam"
+},
+{
+  "_id": {
+    "$oid": "65aff11a336605d05e73a280"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "658c5e188ebdda6249af6cf2"
+  },
+  "client_id": {
+    "$oid": "65a637eb6901bb1b8bb9c9af"
+  },
+  "message": "very interusted contact me",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-01-23T17:02:18.635Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-23T17:02:18.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b368359f1e429bd670ce18"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "65980262f6289a0bbc02fd49"
+  },
+  "client_id": {
+    "$oid": "65b367e69f1e429bd670ce00"
+  },
+  "message": "mekdi here am interested contact me",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2024-01-26T08:07:17.270Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T08:10:27.308Z"
+  },
+  "__v": 0,
+  "reply_message": "ok we will contact you soon"
+},
+{
+  "_id": {
+    "$oid": "65b3689c9f1e429bd670ce38"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "658c5e188ebdda6249af6cf2"
+  },
+  "client_id": {
+    "$oid": "65b367e69f1e429bd670ce00"
+  },
+  "message": "sekeled nw tewew\n",
+  "status": "rejected",
+  "createdAt": {
+    "$date": "2024-01-26T08:09:00.319Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T08:10:42.078Z"
+  },
+  "__v": 0,
+  "reply_message": "eshi twkut"
+},
+{
+  "_id": {
+    "$oid": "65b368a99f1e429bd670ce41"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "659bb2245b5c32561e6ef414"
+  },
+  "client_id": {
+    "$oid": "65b367e69f1e429bd670ce00"
+  },
+  "message": "aadfad adwwad awd awd ad aa d",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2024-01-26T08:09:13.947Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T08:11:02.306Z"
+  },
+  "__v": 0,
+  "reply_message": "anchi yalshew neger betam gerami selehone tekebeuyalw"
+},
+{
+  "_id": {
+    "$oid": "65c092a676a63b18422c2fef"
+  },
+  "realestate_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "apartment_id": {
+    "$oid": "65980262f6289a0bbc02fd49"
+  },
+  "client_id": {
+    "$oid": "65a637eb6901bb1b8bb9c9af"
+  },
+  "message": "temecign \n",
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2024-02-05T07:47:50.216Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-05T07:49:25.084Z"
+  },
+  "__v": 0,
+  "reply_message": "eshi "
+}]

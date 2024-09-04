@@ -1,0 +1,308 @@
+[{
+  "_id": {
+    "$oid": "655895c6c6424909d6b540e1"
+  },
+  "username": "mekdi",
+  "fullname": "Mekdelawit Chekol",
+  "email": "b@b.com",
+  "password": "$2b$10$JhnjMzcYOSVnPPF6rjKGb.YroRDh33FqCu2bf2tzMqenUK0Pflmaa",
+  "privilege": "superadmin",
+  "imageurl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+  "createdAt": {
+    "$date": "2023-11-18T10:45:26.419Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T12:45:25.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65589a3c4fa538f4c5ebdc37"
+  },
+  "username": "gedi",
+  "fullname": "Gedion Melaku",
+  "email": "c@c.com",
+  "password": "$2b$10$zH4EsBCeBcq.8nMAdu942uMgeiCzGQGUjquhyFh9H8eLntQDqnW56",
+  "privilege": "client",
+  "imageurl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+  "createdAt": {
+    "$date": "2023-11-18T11:04:28.159Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-18T11:04:28.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65589e67d2282ba01f67131e"
+  },
+  "username": "haile",
+  "fullname": "Haile Kinfu",
+  "email": "d@d.com",
+  "password": "$2b$10$9b.b1i83AyS4emoSzpdgYeOfUQxko06C7UZhyrtbBykRvggyfva4C",
+  "privilege": "client",
+  "imageurl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+  "createdAt": {
+    "$date": "2023-11-18T11:22:15.794Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-18T11:22:15.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6558a62055b9496feeb97690"
+  },
+  "username": "abu",
+  "fullname": "Yonatan Solomon",
+  "email": "a@c.com",
+  "password": "$2b$10$JoDZt/Uqb/Ur7hCZTpmAS.8biK1i.COg.UxBItRGCscx2JapUvLIW",
+  "privilege": "client",
+  "imageurl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+  "createdAt": {
+    "$date": "2023-11-18T11:55:12.583Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:45:08.394Z"
+  },
+  "__v": 0,
+  "contact": "0912345677",
+  "gender": "male"
+},
+{
+  "_id": {
+    "$oid": "655e04e28f47461621f2ade7"
+  },
+  "username": "Sinaa",
+  "fullname": "Sina Biruk",
+  "email": "a@A.com",
+  "password": "$2b$10$XYw8NcLVzmrkY0cIRRQhNegmqlEKH3dL4uN2UdWs5rfxlD1LYveJq",
+  "privilege": "client",
+  "imageurl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+  "createdAt": {
+    "$date": "2023-11-22T13:40:50.767Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:59:41.793Z"
+  },
+  "__v": 0,
+  "contact": "09123489",
+  "gender": "female"
+},
+{
+  "_id": {
+    "$oid": "655e0c518f47461621f2ae06"
+  },
+  "username": "ayu",
+  "fullname": "Ayat RealEstate",
+  "email": "ayat@gmail.com",
+  "password": "$2b$10$PjLUs6N16jtPXyYRvImgG.k7Qp0QqschC3j7a0Knvorolh2SroeMK",
+  "privilege": "admin",
+  "imageurl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+  "createdAt": {
+    "$date": "2023-11-22T14:12:33.443Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T14:12:33.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f15616462090b2b5d2876"
+  },
+  "username": "isru",
+  "fullname": "Israel Abebaw",
+  "email": "isruabebaw@gmail.com",
+  "password": "$2b$10$tMhIERL0YmcSLx1H81wubOFPyq3IUqEH7QZhOvZMpRGoOiyC4jvyu",
+  "privilege": "superadmin",
+  "imageurl": "",
+  "createdAt": {
+    "$date": "2023-11-23T09:03:29.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T11:45:17.481Z"
+  },
+  "__v": 0,
+  "address": "far far away",
+  "contact": "0913431348",
+  "description": "awddadaddasaddsda",
+  "gender": "undefined",
+  "imageUrl": "backend\\uploads\\image-1705569008732-946778330.png"
+},
+{
+  "_id": {
+    "$oid": "656429fe078f1be5e8d803a1"
+  },
+  "username": "mame",
+  "fullname": "Gorro RealEstate",
+  "email": "g@g.com",
+  "password": "$2b$10$9WOy2fomBWvsOZsOmfdF9OPwrIoPPpTtxV9oNqEjcMB4oy.FCQAlq",
+  "contact": "0912345678",
+  "privilege": "admin",
+  "imageurl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+  "createdAt": {
+    "$date": "2023-11-27T05:32:46.917Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-04T13:09:36.439Z"
+  },
+  "__v": 0,
+  "address": "",
+  "description": "",
+  "gender": "Male",
+  "imageUrl": "backend\\uploads\\image-1704373776430-428518224.jpg"
+},
+{
+  "_id": {
+    "$oid": "65672fed53941888062ff4a6"
+  },
+  "username": "dagi",
+  "fullname": "Dagmawi Biruk",
+  "email": "a@a.com",
+  "password": "$2b$10$H1AwGV3sAyU9ZMHRR9Iqluum./6rKwTHxZv8dqxkhMOcoVqY7rB9S",
+  "privilege": "client",
+  "imageurl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+  "createdAt": {
+    "$date": "2023-11-29T12:34:53.859Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T13:04:56.822Z"
+  },
+  "__v": 0,
+  "contact": "091234389",
+  "gender": "male"
+},
+{
+  "_id": {
+    "$oid": "65673a6853941888062ff4c1"
+  },
+  "username": "kaleb",
+  "fullname": "Kaleb RealEstate",
+  "email": "a@b.com",
+  "password": "",
+  "contact": "09123456768",
+  "privilege": "admin",
+  "imageurl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+  "createdAt": {
+    "$date": "2023-11-29T13:19:36.251Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:15:29.575Z"
+  },
+  "__v": 0,
+  "gender": "Female"
+},
+{
+  "_id": {
+    "$oid": "65717f97380bf3b3adf2663a"
+  },
+  "username": "abe",
+  "fullname": "Abebe Kebede",
+  "email": "f@f.com",
+  "password": "$2b$10$IRiFJja1agl6pJD/T9u50uEuTRnTJLTSHbsMMaDBXJNqvvh/ZlZRm",
+  "privilege": "client",
+  "imageurl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+  "createdAt": {
+    "$date": "2023-12-07T08:17:27.058Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:30:31.259Z"
+  },
+  "__v": 0,
+  "address": "Bole",
+  "contact": "0900000000",
+  "description": "Motivated farmer",
+  "gender": "Male"
+},
+{
+  "_id": {
+    "$oid": "658c5dd58ebdda6249af6cec"
+  },
+  "username": "nica",
+  "fullname": "nica states",
+  "email": "nica@gmail.com",
+  "password": "$2b$10$XxIbYn3ggrnVOHsJtiZ1S./Y4WelM/dH8U1PgiyeEPVrOMAxlV5Ve",
+  "contact": "0937923535",
+  "privilege": "admin",
+  "imageUrl": "backend\\uploads\\image-1704366438213-620146253.jpg",
+  "createdAt": {
+    "$date": "2023-12-27T17:24:37.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-04T11:07:18.224Z"
+  },
+  "__v": 0,
+  "address": "",
+  "description": "",
+  "gender": "Male"
+},
+{
+  "_id": {
+    "$oid": "6596afccb72c3d58c0257c71"
+  },
+  "username": "enu",
+  "fullname": "enu eskes",
+  "email": "enu@kissmyass.com",
+  "password": "$2b$10$vyW0fpxtW.b4OBb.OwOJt.Wm48pUBJJjsddzEQzttQJN0bNTNAcyO",
+  "contact": "091212121212",
+  "privilege": "admin",
+  "imageUrl": "backend\\uploads\\image-1704374266838-92940795.jpg",
+  "createdAt": {
+    "$date": "2024-01-04T13:17:00.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-04T13:17:46.842Z"
+  },
+  "__v": 0,
+  "address": "",
+  "description": "",
+  "gender": "Male"
+},
+{
+  "_id": {
+    "$oid": "65a637eb6901bb1b8bb9c9af"
+  },
+  "username": "test",
+  "fullname": "test testing",
+  "email": "test@gmail.com",
+  "password": "$2b$10$xymg8JHPGpUoEBM6WYxXou43hH/nsKZxBlvE3Y.v6Wx1KMapzYxRW",
+  "privilege": "client",
+  "imageUrl": "backend\\uploads\\image-1705403933386-867750471.png",
+  "createdAt": {
+    "$date": "2024-01-16T08:01:47.008Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-23T16:27:06.775Z"
+  },
+  "__v": 0,
+  "address": "megenagna around israel embassy",
+  "contact": "0911111111",
+  "description": "life is short live it up",
+  "gender": "Male"
+},
+{
+  "_id": {
+    "$oid": "65b367e69f1e429bd670ce00"
+  },
+  "username": "mekdichko",
+  "fullname": "mekdi cheol",
+  "email": "mekdi@gmail.com",
+  "password": "$2b$10$3ZC21A6iMfG5QReUYVqjEewAQoa.4IdosD9Siog4mHJdUlCNO/Pp.",
+  "privilege": "client",
+  "imageUrl": "backend\\uploads\\image-1706256515031-426649249.jpg",
+  "createdAt": {
+    "$date": "2024-01-26T08:05:58.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T08:08:35.044Z"
+  },
+  "__v": 0,
+  "address": "kerb nign",
+  "contact": "0912346647",
+  "description": "verry good girl",
+  "gender": "Male"
+}]

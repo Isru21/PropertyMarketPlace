@@ -1,0 +1,303 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;800&family=VT323&display=swap');
+
+/* layout */
+:root {
+  --primary: #1aac83;
+  --error: #e7195a;
+}
+body {
+  background: #f1f1f1;
+  margin: 0;
+  font-family: "Poppins";
+}
+header {
+  /* background: #fff; */
+}
+header .container {
+  /* max-width: 1400px;
+  margin: 0px 100px 0px 0px auto;
+  padding: 0px 20px; */
+  /* display: flex; */
+  /* align-items: center;
+  justify-content: space-between; */
+}
+header a {
+  color: #333;
+  text-decoration: none;
+}
+.pages{
+  max-width: 1400px;
+  padding: 20px;
+  margin: 0 auto;
+}
+.pageLOG{
+  max-width: 1400px;
+  /* padding: 20px; */
+  margin: 0 0 0 -125px;
+}
+
+/* navbar */
+nav {
+  display: flex;
+  align-items: center;
+}
+nav a {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+}
+nav div {
+  display: flex;
+  align-items: center;
+}
+nav button {
+  background: #fff;
+  color: var(--primary);
+  border: 2px solid var(--primary);
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-family: "Poppins";
+  cursor: pointer;
+  font-size: 1em;
+  margin-left: 10px;
+}
+/* nav img {
+  height: 40px;
+  border-radius: 100%;
+  border: 2px solid var(--primary);
+  cursor: pointer;
+  margin-left: 10px;
+  margin-right: 10px;
+} */
+
+/* homepage */
+.home{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 50px
+}
+.home1{
+  display: block;
+}
+.apt-details{
+  background: #fff;
+  border-radius: 4px;
+  margin: 20px auto;
+  padding: 20px;
+  position: relative;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
+}
+.apt-details h4{
+  margin: 0 0 10px 0;
+  font-size: 1.2em;
+  color: var(--primary);
+}
+.apt-details p{
+  margin: 0;
+  font-size: 0.9em;
+  color: #555;
+}
+.apt-details img{
+  height: 100px;
+  margin: 10px;
+}
+.apt-details .detail{
+  height: 300px;
+  margin: 10px;
+}
+input{
+  display: block;
+}
+
+/* forms */
+input {
+  display: block;
+}
+input, select {
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.login .submit, .signup .submit, .other-forms .submit {
+  background: #2D3642;
+  border: 0;
+  color: #fff;
+  padding: 10px;
+  font-family: "Poppins";
+  border-radius: 4px;
+  cursor: pointer;
+}
+.login a, .signup a{
+  text-decoration: none;
+}
+.login .cancel, .signup .cancel {
+  border: 0;
+  padding: 10px;
+  font-family: "Poppins";
+  border-radius: 4px;
+  cursor: pointer;
+}
+.other-forms .cancel{
+  border: 10;
+  padding: 10px;
+  font-family: "Poppins";
+  border-radius: 4px;
+  cursor: pointer;
+}
+div.error {
+  padding: 10px;
+  background: #ffefef;
+  border: 1px solid var(--error);
+  color: var(--error);
+  border-radius: 4px;
+  margin: 20px 0;
+}
+input.error {
+  border: 1px solid var(--error);
+}
+
+/* auth forms */
+form.signup, form.login {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 4px;
+}
+
+/* requests page */
+.request-page{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 50px
+}
+.requests-page1{
+  display: block;
+}
+.request-details{
+  background: #E5E6EA;
+  border-radius: 4px;
+  margin: 20px auto;
+  padding: auto;
+  position: relative;
+  /* box-shadow: 2px 2px 5px rgba(0,0,0,0.05); */
+}
+.request-details h3{
+  margin: 0 0 10px 0;
+  font-size: 1.2em;
+  color: var(--primary);
+}
+.request-details p{
+  margin: 0;
+  font-size: 0.9em;
+  color: #555;
+}
+.request-details .status{
+  color: var(--error);
+}
+.request-details .status1{
+  color: var(--primary);
+}
+/* .request-details button{
+  background: var(--primary);
+  border: 0;
+  color: #fff;
+  padding: 10px;
+  font-family: "Poppins";
+  border-radius: 4px;
+  cursor: pointer;
+} */
+
+textarea{
+  display: block;
+  width: 100%;
+  height: 6em;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+  /* max-width: 314px; */
+  max-width: 344px;
+}
+
+/* aptdetail page */
+.aptdetail-page{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 50px
+}
+.aptdetail-page1{
+  display: block;
+}
+
+/* realestates page */
+.realestatedetail-page{
+  display: block;
+}
+.realestate-details{
+  background: transparent;
+  /* border-radius: 4px; */
+  /* margin: 20px auto; */
+  /* padding: 20px; */
+  position: relative;
+  /* box-shadow: 2px 2px 5px rgba(0,0,0,0.05); */
+  text-align: center;
+}
+.realestate-details h4{
+  margin: 0 0 10px 0;
+  font-size: 1.2em;
+  color: var(--primary);
+}
+.realestate-details p{
+  margin: 0;
+  font-size: 0.9em;
+  color: #555;
+}
+/* .realestate-details button{
+  background: var(--primary);
+  border: 0;
+  color: #fff;
+  padding: 10px;
+  font-family: "Poppins";
+  border-radius: 4px;
+  cursor: pointer;
+} */
+.links {
+  cursor: pointer;
+}
+
+/* user-profile page */
+.profile-page{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 50px
+}
+
+/* page pagination section */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pagination button {
+  background: #fff;
+  color: var(--primary);
+  border: 1.5px solid var(--primary);
+  border-radius: 4px;
+  font-family: "Poppins";
+  cursor: pointer;
+  font-size: 1em;
+}
+.pagination .active button {
+  border: 3px solid darkgreen;
+}
+.pagination .arrows button{
+  border: none;
+}
